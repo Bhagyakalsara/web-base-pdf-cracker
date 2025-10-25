@@ -120,8 +120,3 @@ Do not use on unauthorized or private documents.
 
 For production deployment, use a WSGI server like Gunicorn.
 
-📄 License
-
-MIT License © 2025 Bhagya
-
- ---  Let me know if you want me to generate a matching `requirements.txt`, add screenshots, or prep a GitHub release draft. You're ready to showcase this like a pro!
